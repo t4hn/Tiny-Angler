@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Angler: Cozy Top-Down Fishing & Collection",
+  "description": "A relaxed top-down pixel-art fishing game with fish silhouette tracking, individual fish collection, personal records, and a full live fish catalogue editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
